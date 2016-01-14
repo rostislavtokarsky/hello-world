@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+This repository is created for GitHub testing purpose
